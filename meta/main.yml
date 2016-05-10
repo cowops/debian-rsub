@@ -16,4 +16,4 @@ galaxy_info:
   galaxy_tags:
   - system
 dependencies:
-  - role: loranger.debian-rmate
+  - loranger.debian-rmate
