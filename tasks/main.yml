@@ -1,0 +1,3 @@
+---
+- name: install rsub
+  template: src=rsub.j2 dest=/usr/local/bin/rsub mode=a+x
