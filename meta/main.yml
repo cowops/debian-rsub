@@ -16,4 +16,4 @@ galaxy_info:
   galaxy_tags:
   - system
 dependencies:
-  - loranger.debian-rmate
+  - cowops.debian-rmate

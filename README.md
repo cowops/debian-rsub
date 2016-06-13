@@ -26,8 +26,7 @@ Role Variables
 Dependencies
 ------------
 
-- roles:
-     - { role: loranger.debian-rmate }
+- cowops.debian-rmate
 
 None
 
@@ -36,7 +35,7 @@ Example Playbook
 
   - hosts: servers
     roles:
-       - { role: loranger.debian-rsub }
+       - { role: cowops.debian-rsub }
 
 Tasks
 -----
